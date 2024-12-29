@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+*.json
+final_visualization_data/
